@@ -1,0 +1,7 @@
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\obj\Debug\Subsequence Check.csprojAssemblyReference.cache
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\obj\Debug\Subsequence Check.csproj.CoreCompileInputs.cache
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\bin\Debug\Subsequence Check.exe.config
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\bin\Debug\Subsequence Check.exe
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\bin\Debug\Subsequence Check.pdb
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\obj\Debug\Subsequence Check.exe
+C:\Users\Amit.kumar3\source\repos\Subsequence Check\Subsequence Check\obj\Debug\Subsequence Check.pdb
